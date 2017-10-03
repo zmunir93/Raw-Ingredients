@@ -57,7 +57,7 @@
                                                                 price: "3.50"
                                                             }
                 ]
-    }    
+    }
         sides_section = {
         name: "SIDES/ANTOJITOS",
         items:[
@@ -169,3 +169,5 @@
         }
 
 menu = {sections: [taco_section, sides_section, beer_selection, breakfast_section, coffee_selection]}
+
+#made by Claudio
